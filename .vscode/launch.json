@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/daicanglan/Documents/GitHub/6.828-learning/labs/xv6-labs-2022",
+      "program": "/Users/daicanglan/Documents/GitHub/6.828-learning/labs/xv6-labs-2022/build/Debug/outDebug"
+    }
+  ]
+}
