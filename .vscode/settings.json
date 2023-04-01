@@ -33,5 +33,13 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "files.associations": {
+    "memlayout.h": "c",
+    "sleeplock.h": "c",
+    "types.h": "c",
+    "user.h": "c",
+    "fcntl.h": "c",
+    "__config": "c"
+  }
 }
